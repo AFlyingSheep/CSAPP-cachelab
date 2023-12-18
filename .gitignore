@@ -6,3 +6,5 @@ csim-ref
 *.o
 *.tar
 .cache
+.marker
+trace.*
