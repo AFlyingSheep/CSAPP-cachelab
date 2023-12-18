@@ -1,0 +1,8 @@
+.csim_results
+compile_commands.json
+csim
+csim-ref
+*.tmp
+*.o
+*.tar
+.cache
